@@ -31,9 +31,7 @@
   - ![French_to_English](README/French_to_English-16481356853014.PNG)
   - English to French example:
   - ![French_to_English](README/English_to_French.PNG)
-- Deploy the application on IBM Cloud, for further use
-  - Maybe I 'll add it to my website! Sounds Great!😋
-  - Now I am trying to add a auto-chatbot🤖  to my website! HAHA! 
+
 
 
 
